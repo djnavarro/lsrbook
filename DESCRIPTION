@@ -15,3 +15,5 @@ Imports:
 RoxygenNote: 7.2.3
 URL: https://github.com/djnavarro/lsrbook
 BugReports: https://github.com/djnavarro/lsrbook/issues
+Depends: 
+    R (>= 2.10)
