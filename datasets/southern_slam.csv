@@ -1,0 +1,44 @@
+time,date,home_team,home_score,visitor_team,visitor_score,margin,track,division,pool,type
+09:00:00,2022-06-11,Coastal Assassins Roller Derby (Assassins),258,Devil State Derby League,62,196,1,2,A,pool
+09:00:00,2022-06-11,Tweed Valley Rollers (Valley Vixens),248,Kingston City Rollers (The Royals),197,51,3,3,B,pool
+09:00:00,2022-06-11,North East Roller Derby / Dragon City Roller Derby (Nerdy Dragons),160,Van Diemen Rollers,137,23,2,3,A,pool
+10:45:00,2022-06-11,Canberra Roller Derby League / Varsity Derby League (Capital Rollers),104,South Sea Roller Derby (Sirens),210,106,2,2,B,pool
+10:45:00,2022-06-11,Victorian Roller Derby League (Lightning),297,Brisbane City Rollers (Punk Blockers),78,219,1,1,A,pool
+12:30:00,2022-06-11,Newcastle Roller Derby League (Dockyard Dames),94,WestSide Roller Derby (WestSide Glory),154,60,1,2,C,pool
+12:30:00,2022-06-11,Ballarat Roller Derby League (The Rat Pack),83,Light City Derby (Sabres),369,286,2,3,C,pool
+14:15:00,2022-06-11,Sun State Roller Derby (Killer Bees),114,Western Australia Roller Derby (WARDs of the Skate),224,110,2,2,D,pool
+14:15:00,2022-06-11,Victorian Roller Derby League (Thunder),89,Adelaide Roller Derby (Adeladies),232,143,1,1,B,pool
+16:00:00,2022-06-11,Coastal Assassins Roller Derby (Assassins),224,Inner West Roller Derby League (The Skatecrashers),65,159,1,2,A,pool
+16:00:00,2022-06-11,North East Roller Derby / Dragon City Roller Derby (Nerdy Dragons),199,East Vic Roller Derby (Witches of EastVic),154,45,3,3,A,pool
+16:00:00,2022-06-11,Western Sydney Rollers / Wollongong Illawarra Roller Derby,178,Tweed Valley Rollers (Valley Vixens),199,21,2,3,D/B,pool
+17:45:00,2022-06-11,Brisbane City Rollers (Punk Blockers),194,Perth Roller Derby (West Coast Evils),113,81,1,1,A,pool
+17:45:00,2022-06-11,Newcastle Roller Derby League (Dockyard Dames),128,Adelaide Roller Derby (Rads),147,19,2,2,C,pool
+19:30:00,2022-06-11,Convict City Roller Derby (Orange Thunder),316,Sun State Roller Derby (Killer Bees),81,235,3,2,D,pool
+19:30:00,2022-06-11,Canberra Roller Derby League / Varsity Derby League (Capital Rollers),179,Northern Brisbane Rollers (Team Phoenix),108,71,1,2,B,pool
+19:30:00,2022-06-11,Victorian Roller Derby League (Thunder),310,Sydney Roller Derby League (The Assassins),71,239,2,1,B,pool
+09:00:00,2022-06-12,Tweed Valley Rollers (Valley Vixens),232,Rockabellas Roller Derby League,124,108,1,3,B,pool
+09:00:00,2022-06-12,Adelaide Roller Derby (Rads),177,WestSide Roller Derby (WestSide Glory),188,11,2,2,C,pool
+09:00:00,2022-06-12,Western Sydney Rollers / Wollongong Illawarra Roller Derby,297,Murder City Roller Derby (HomiciDolls),119,178,3,3,D,pool
+10:45:00,2022-06-12,Ballarat Roller Derby League (The Rat Pack),441,Northern Beaches Roller Girls (Sirens),93,348,2,3,C,pool
+10:45:00,2022-06-12,Victorian Roller Derby League (Lightning),426,Perth Roller Derby (West Coast Evils),29,397,1,1,A,pool
+12:30:00,2022-06-12,Adelaide Roller Derby (Adeladies),239,Sydney Roller Derby League (The Assassins),66,173,1,1,B,pool
+12:30:00,2022-06-12,South Sea Roller Derby (Sirens),278,Northern Brisbane Rollers (Team Phoenix),74,204,2,2,B,pool
+14:15:00,2022-06-12,Devil State Derby League,150,Inner West Roller Derby League (The Skatecrashers),150,0,1,2,A,pool
+14:15:00,2022-06-12,Convict City Roller Derby (Orange Thunder),161,Western Australia Roller Derby (WARDs of the Skate),89,72,2,2,D,pool
+16:00:00,2022-06-12,Van Diemen Rollers,305,East Vic Roller Derby (Witches of EastVic),179,126,1,3,A,pool
+16:00:00,2022-06-12,Kingston City Rollers (The Royals),228,Rockabellas Roller Derby League,146,82,2,3,B,pool
+16:00:00,2022-06-12,Tweed Valley Rollers (Valley Vixens),403,Murder City Roller Derby (HomiciDolls),137,266,3,3,B/D,pool
+17:45:00,2022-06-12,South Sea Roller Derby (Sirens),127,WestSide Roller Derby (WestSide Glory),202,75,2,2,NA,qualifying final
+17:45:00,2022-06-12,Victorian Roller Derby League (Lightning),256,Victorian Roller Derby League (Thunder),31,225,1,1,NA,qualifying final
+19:30:00,2022-06-12,Coastal Assassins Roller Derby (Assassins),81,Convict City Roller Derby (Orange Thunder),129,48,1,2,NA,qualifying final
+19:30:00,2022-06-12,Brisbane City Rollers (Punk Blockers),119,Adelaide Roller Derby (Adeladies),218,99,2,1,NA,qualifying final
+19:30:00,2022-06-12,Light City Derby (Sabres),511,Northern Beaches Roller Girls (Sirens),19,492,3,3,C,pool
+09:00:00,2022-06-13,Tweed Valley Rollers (Valley Vixens),130,Light City Derby (Sabres),250,120,2,3,NA,qualifying final
+09:00:00,2022-06-13,North East Roller Derby / Dragon City Roller Derby (Nerdy Dragons),131,Gippsland Valley Roller Derby / Diamond Valley Derby Club / Geelong Roller Derby League (The Valley Cats),127,4,1,3,NA,qualifying final
+10:45:00,2022-06-13,South Sea Roller Derby (Sirens),106,Coastal Assassins Roller Derby (Assassins),128,22,1,2,NA,consolation round
+10:45:00,2022-06-13,Perth Roller Derby (West Coast Evils),233,Sydney Roller Derby League (The Assassins),69,164,2,1,NA,consolation round
+12:30:00,2022-06-13,Tweed Valley Rollers (Valley Vixens),146,Gippsland Valley Roller Derby / Diamond Valley Derby Club / Geelong Roller Derby League (The Valley Cats),215,69,2,3,NA,consolation round
+12:30:00,2022-06-13,Brisbane City Rollers (Punk Blockers),135,Victorian Roller Derby League (Thunder),137,2,1,1,NA,consolation round
+14:15:00,2022-06-13,North East Roller Derby / Dragon City Roller Derby (Nerdy Dragons),50,Light City Derby (Sabres),251,201,1,3,NA,grand final
+16:00:00,2022-06-13,WestSide Roller Derby (WestSide Glory),101,Convict City Roller Derby (Orange Thunder),196,95,1,2,NA,grand final
+17:45:00,2022-06-13,Victorian Roller Derby League (Lightning),246,Adelaide Roller Derby (Adeladies),66,180,1,1,NA,grand final
