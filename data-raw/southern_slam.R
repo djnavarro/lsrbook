@@ -19,8 +19,17 @@
 # The southern_slam data frame includes all listed
 # bouts from the tournament, except for the two
 # challenge bouts.
+#
+# The csv stored in data-raw stores the time in UTC,
+# but to be consistent with what was actually on the
+# website, this script uses the local timezone (ACST)
+# for the tournament.
 
 southern_slam <- readr::read_csv(
   here::here("data-raw", "southern_slam.csv")
+)
+southern_slam$time <- lubridate::with_tz(
+  southern_slam$time,
+  "Australia/Adelaide"
 )
 usethis::use_data(southern_slam, overwrite = TRUE)
