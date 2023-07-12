@@ -11,6 +11,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
+    methods,
     tibble,
     vctrs
 RoxygenNote: 7.2.3

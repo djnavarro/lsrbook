@@ -27,13 +27,13 @@ show_environment <- function() {
     size <- try(expr = dim(eval_there(x)), silent = TRUE)
 
     # rectangular objects:
-    if(!is(size, "NULL") & length(size) == 2) {
+    if (!methods::is(size, "NULL") & length(size) == 2) {
       msg <- paste0("rectangular: ", size[1], " by ",  size[2])
       return(msg)
     }
 
     # other objects with a dimension
-    if(!is(size, "NULL") & length(size) != 2) {
+    if (!methods::is(size, "NULL") & length(size) != 2) {
       msg <- paste(length(size), "dimensional object")
       return(msg)
     }
@@ -42,7 +42,7 @@ show_environment <- function() {
     #if(is(eval_there(x), "vector")) {
     size <- try(expr = vctrs::vec_size(eval_there(x)), silent = TRUE)
 
-    if(!is(size, "try-error")) {
+    if (!methods::is(size, "try-error")) {
       msg <- paste("length:", size)
       return(msg)
     }
