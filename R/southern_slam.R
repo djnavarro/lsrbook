@@ -13,10 +13,9 @@
 #' from interstate to attend, this is purely a convention.
 #'
 #' @format ## `southern_slam`
-#' A data frame with 43 rows and 11 columns:
+#' A data frame with 43 rows and 10 columns:
 #' \describe{
-#'   \item{time}{Time of the bout, in Australian Central Standard Time}
-#'   \item{date}{Date of the bout}
+#'   \item{time}{Time and date of the bout, in Australian Central Standard Time}
 #'   \item{home_team}{Name of the "home" team for the bout}
 #'   \item{home_score}{Score recorded by the "home" team}
 #'   \item{visitor_team}{Name of the "visitor" team for the bout}
